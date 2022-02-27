@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the lords; knights, citizens, and burgesses assembled in both Houses of Parliament. The humble petition of Richard Chambers merchant and alderman of the City of London.</title>
+            <author>Chambers, Richard, 1588?-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78557</idno>
+            <idno type="STC">Wing C1920</idno>
+            <idno type="STC">Thomason 669.f.10[65]</idno>
+            <idno type="STC">ESTC R210497</idno>
+            <idno type="EEBO-CITATION">99869290</idno>
+            <idno type="PROQUEST">99869290</idno>
+            <idno type="VID">162602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162602)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the lords; knights, citizens, and burgesses assembled in both Houses of Parliament. The humble petition of Richard Chambers merchant and alderman of the City of London.</title>
+                  <author>Chambers, Richard, 1588?-1658.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Merchants --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162602:1" rendition="simple:additions"/>
+            <head>To the Right Honourable the Lords; Knights, Citizens, and Burgeſſes Aſſembled in both Houſes of <hi>PARLIAMENT.</hi>
+            </head>
+            <head type="sub">The humble Petition of <hi>Richard Chambers</hi> Merchant and Alderman of the City of <hi>London.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner out of a deep ſenſe of your great and weighty affaires in theſe diſtracted times, hath with patience waited upon God, and your favours, for a ſeaſonable opportunity to revive his ſormer Petition exhibited to this Honourable Houſe the 22 day of <hi>November,</hi> 1641. in which were expreſſed at large your Petitioners ſufferings and impriſonments, ſo generally known to all; and fearing to be tedious, the brief Heads whereof are as followeth:</p>
+            <p n="1"> I. That your Petitioner for refuſing to pay Tonnage and Poundage, as of due right to the King, without authority of Parliament according to Law, and for defending the Parliaments Rights and Liberties therein, and the Petition of Right, ſuffered as followed:</p>
+            <p n="2"> II. Your Petitioner thereupon had all his goods from time to time Imported, ſeized, and detained for pretended duties in the Cuſtome-houſe, <hi>London;</hi> although your Petitioner willed the then Farmers and Officers to pay themſelves what was due, and give your Petitioner the re<g ref="char:EOLhyphen"/>mainder; which they denying, your Petitioner ſupplicated the Lords of the Councell for his Goods; and upon ſpeeches between them, your Petitioner ſaid he had been in <hi>Turkie,</hi> and in other parts of the world; but in no parts were Merchants ſo wronge and ſcrued, as in <hi>England;</hi> at which words the Lords tooke offence, and would not ſuffer explanation, as was then humbly deſired, but committed your Petitioner Priſoner to the Marſhalſeys in 1628.</p>
+            <p n="3">III. After which your Petitioner not getting liberty upon three Petitions exhibited, he brought his <hi>Habeas Corpus,</hi> and with much ſtrugling and importunity had his liberty upon ſpeciall Baile in the Kings Bench.</p>
+            <p n="4">IV After which your Petitioner exhibited his Bill in the Exchequer Chamber, and demanded Writs for delivery of his Goods, but could not obtaine any, but ſome Orders that the Farmers ſhould keep double their demands, and deliver the reſt to your Petitioner; which Orders were not obeyed, and the next day made void, contrary to Law and Juſtice; onely through the feares and injuſtice of the then Barons, altering publike Orders of Court upon private Motions, &amp;c.</p>
+            <p n="5">V. Which your Petitioner perceiving, he brought two Replevins according to Law, and executed the ſame, and tooke his Goods aſhoare our of Lighters, and put them into Carts to carry home, but was ſtopped and hindered by the ſaid Farmers and Officers; whereupon your Petitioner went to the Sheriffes of <hi>London</hi> for ayde, and delivery of his Goods, upon which they came down; and Sheriffe <hi>Acton</hi> with faire promiſes of Juſtice deluded your Petitioner untill night, in which time he combined with ſome of the Farmers, and for his owne private gaine, being an under Farmer, ſent Notes to the King, and Lords; by which practices and falſhood, contrary to Juſtice, and the duty of his place and oath, he treacherouſly betrayed your Petitioner and his Goods into the hands of Meſſengers, who ſeized his Goods to the Kings poſſeſſion; for which Act, upon your Petitioners complaint to the Parliament, he was committed to the Tower; and after the Parli<g ref="char:EOLhyphen"/>ament broke up he gained his liberty; and for his good ſervice to the King, <hi>William Acton</hi> Eſquite, was made Knight and Baronet.</p>
+            <p n="6">VI By which practices your Petitioners Goods were forcibly held from him, and he arreſted by a Sergeant at Armes, and preſently after, two Bils were filed againſt him in the S ar-chamber; and upon one of which he was for two words ſentenced to pay 2000 <hi>l.</hi> fine to the King, Im<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſonment at the Kings pleaſure, and to acknowledge his offence at the Councel board, Star-chamber, and the Exchange <hi>London, anno</hi> 1629.</p>
+            <p n="7">VII. That your Petitioner preſently after the ſentence, and before the Fine was eſtreted into the Exchequer, did according to Law put in his plea into that Court in bar of the ſaid ſentence as unjuſt, and contrary to Law, and refuſed to conform thereunto, or to any ſubmiſſions then ſent him.</p>
+            <p n="8">VIII. Nevertheleſſe, contrary to Law and Juſtice, Extents were taken out againſt your Petitioner for the ſaid Fine, your Petitioner having then of his eſtate detained in the Cuſtome-houſe, as by Records in Exchequer appeareth, 7060 <hi>l.</hi> eſtate, out of which were taken for the King at one time 2500 <hi>l.</hi> at another time 1130 <hi>l.</hi> and at another time in Currans 700 <hi>l.</hi> which together is 4330 <hi>l.</hi> for which to this day he never received ſatisfaction.</p>
+            <p n="9">IX. That ſeven yeares after, upon many Petitions exhibited, the King gave your Petitioner liberty, redeeming his periſhable Goods; but the remainder lay in the Cuſtome-houſe <hi>London</hi> fourteen years, untill they were delivered him by Order of this bleſſed Parliament.</p>
+            <p n="10">X. By which fourteen years ſufferings your Petitioner is damnified in his Eſtate, Trade, Credit, and by loſſe of his Factory, and Markets, by fall of price, and long detaining his goods, and with what was taken for the King, with Suits in Law in the Star-chamber and Exchequer, and ſeven years Impriſonments, with Fees, and other Charges, above ſixteen thouſand Pounds E<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate.</p>
+            <p>The Premiſſes conſidered, and for that your Petitioner was the firſt Merchant which denyed undue pretended Cuſtomes aforeſaid, as alſo Ship<g ref="char:EOLhyphen"/>money, and all other illegall Exactions contrary to Law, to his great loſſe and hazard, and his ſufferings thereby the more extremely multi<g ref="char:EOLhyphen"/>plyed and preſſed upon him being a ſingle man, for his conſtancy and reſolution in defending the Rights of the Parliament, and the Petition of Right, and the Subjects priviledges, and no ways yeelding to Preferment, Offices and Honours then offered to take him off; and for that the King having a great part of your Petitioners Eſtate ſo illegally, and your Petitioner not getting Juſtice againſt the King, or any other that de<g ref="char:EOLhyphen"/>fended the Kings pretended demands, having in thoſe days to do with Will, and not Law, although your Petitioner then indeavoured; which ſince by death of ſome, and time ſpent to others, is cut off by the Statute of limitation of Actions, except by the Juſtice and favour of this moſt Honorable Houſe he may find remedy againſt Sir <hi>Thomas Trevor,</hi> Baron of the Exchequer; Sir <hi>William Acton</hi> Baronet, the Sheriffe afore<g ref="char:EOLhyphen"/>ſaid; and Sir <hi>John Jacob</hi> a then Farmer, all yet living; beſides all which, your Petitioner hath in theſe diſtracted times ſpent and laid out himſelf by Loans, Gifts and Taxes for the publike Service of God, and the Common Cauſe, and Parliament, againſt the known Enemy, above himſelf or his Eſtate.</p>
+            <p>
+               <hi>Your Petitioners cauſe ſo appearing beyond Precedent, he moſt humbly beſeecheth this moſt Honourable Houſe to conſider, and to be Honourably plea<g ref="char:EOLhyphen"/>ſed, that whereas your Petitioners firſt wounds and ſufferings were at the Cuſtome-houſe as a Merchants ſo hee may there now after ſo many hazards and yeares paſt, receive cure and recompence from that fountaine and place of Cuſtomes, of Tunnage and Poundage; where your Petitioner by Trade for forty yeares ſupplyed and paid much Money, and yet doth; or otherwiſe as in your grave Wiſdomes you ſhall thinke fit. And that your Petitioner may alſo have ſuch repaire againſt Sir</hi> Thomas Trevor, <hi>Sir</hi> William Acton, <hi>and Sir</hi> John Jacob, <hi>for their ſeverall wrongs and injuſtice, as ſhall be agreeable to the Juſtice of this Honourable Houſe: which favours and Juſtice will ſupport and revive your Petitioner in his loſt and decayed Eſtate, and old age; and much Honour your Honourable Houſe for your care of your faithfull Petitioner, and give life and incouragement to all others for future times, and ever obliege your Petitioner in all ſervice, with his Wife, and nine Chil<g ref="char:EOLhyphen"/>dren to pray for you, and the continuance of this moſt happy Parliament, &amp;c.</hi>
+            </p>
+            <closer>
+               <signed>Richard Chambers.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:162602:2" rendition="simple:additions"/>
+            <head>Now Right Honourable, ſee what remarkable Paſſages God through his Providence hath brought about concerning your Petitioner; which the world taking notice of, he was earnestly preſſed not to hide, for example to future ages.</head>
+            <head>Viz.</head>
+            <p n="1">I. <seg rend="decorInit">T</seg>Hat your Petitioner being ſentenced in Star-chamber 6 <hi>Maii,</hi> 1629. and kept Priſoner in the Fleet for no ſub and juſt ſix yeares after 6 <hi>Maii,</hi> 1635. he was diſcharged by the Kings command without ſubmiſſion, &amp;c.</p>
+            <p n="2">II. That ſhortly after, your Petitioner being aſſeſſed 40 <hi>ſhillings</hi> for that illegall Ship-money, hee refuſing to pay it, was ſen for to the then Lord Major Sir <hi>Edward Br<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mfield,</hi> who ſent your Petitioner to Newgate forcibly in his Coach at ten a Clockt at night, where he lay, uſing all humble and legall wayes for his freedome, without effect; but had all the injuſtice and hinderance that could be offered, untill ſpeech and hope of a bleſſed Parliament.</p>
+            <p n="3">III. Upon which your Petitioner ſued the ſaid Sir <hi>Edward</hi> in the Kings bench for his falſe Impriſonment, and had a Verdict and Judgement for 1500 <hi>l.</hi> dammage; but for non-payment, and his fraudulency, your Petitioner was forced to take out a Commiſſion upon the Statute, and proclaime him Bankrupt; and thereupon got poſſeſſion of his Houſe (where he kept his Majoralty) in part of ſatisfaction.</p>
+            <p n="4">IV. After which, the Ward of <hi>Walbrooke</hi> choſe your Petitioner Alderman of the ſame Ward Sir <hi>Edward</hi> was Alderman of; and being preſented to the Court of Aldermen, they confirmed and ſwore him Alderman: ſince which he was choſen Sheriffe of <hi>London,</hi> and kept his Sheriffalty laſt yeare, 1644. in that Houſe from whence he was ſent to Newgate as aforeſaid.</p>
+            <p n="5">V. That the ſaid Sir <hi>Edward</hi> for Malignancy, &amp;c. lay Priſoner in the Fleet, and now is in the Kings bench, being two of the Priſons to which your Petitioner was committed in his firſt troubles.</p>
+            <p n="6">VI. That by the Honourable favour of both Houſes of Parliament your Petitioner did ſit a Commiſſioner for the Parliament in the Cuſtome-houſe <hi>London,</hi> and received the Cuſtomes of <hi>England</hi> two Years, two Months, where your Petitioners firſt ſufferings did ariſe.</p>
+            <p n="7">VII. That certain Cabinets and Glaſſes of the Lord Treaſurer <hi>Weſton,</hi> your Petitioners mortallenemy in the Exchequer and Star-chamber, were committed to your Petitioner to be ſold for the Parliament, (being Bribes preſented him.)</p>
+            <p n="8">VIII. That the Archbiſhop of <hi>Canterbury, William Laud,</hi> your Petitioners mortall Enemy in all places; who, with the reſt, ſentenced your Pe<g ref="char:EOLhyphen"/>titioner without proof; and at that time further declared, That if their Lordſhips concurred in a higher Fine and puniſhment, he would doe ſo too; for that this <hi>Chambers</hi> would take away the breadfrom the King by his Cuſtomes; and if the King had more ſuch <hi>Chambers,</hi> he would have never a Chamber to put his head in. That by the hand of Providence, your Petitioner in the time of his Sheriffalty did bring this Arch<g ref="char:EOLhyphen"/>biſhop to execution of-death, after a legall Tryall of Parliament, for his illegall Courſes and Treaſons.</p>
+            <p n="9">IX. That the Lord Keeper <hi>Coventry,</hi> in the Star-chamber, cleared your Petitioner of the Crime laid to his charge, being not proved by any wit<g ref="char:EOLhyphen"/>neſſe, and proteſted upon his Conſcience, that he conceived your Petitioner had no ill meaning in the words he ſpake at the Councell Board; but yet concluded, that as the Lords had ſentenced him, hee muſt doe ſo too; and with Sir <hi>Humphrey May,</hi> Fined your Petitioner at 1500 <hi>l.</hi> Impriſonment at the Kings pleaſure, to acknowledge his offence at the Councell Board, Star-chamber, and Exchange <hi>London:</hi> ſo with <hi>Pi<g ref="char:EOLhyphen"/>late</hi> he waſhed his hands of him, and with the multitude condemned your Petitioner, to the ruine of him and his.</p>
+            <p n="10">X. That your Petitioner being Sheriffe of <hi>Londen,</hi> went to the Tower to acquaint the Archbiſhop with the time of his execution, according to a Warrant received, and then deſiring him to tell your Petitioner who had his Goods, or the proceed of them; he anſwered, he knew not whereupon your Petitioner told him of his bitter ſentence againſt him without any proof of Crime, as alſo of the Lord Keepers ſentence, which in charity might have qualified him for the ſuture, and repeating both their ſentences to him; and at the expreſſion of the Lord Keepers complying, and waſhing his hands with <hi>Pilate,</hi> he turned about and laughed heartily, being the night before he ſuffered, and never expreſſed any ſorrow for your Petitioner, or deſire to pardon him, &amp;c. ſo your Petitioner departed from him.</p>
+            <p n="11">XI. That the Earle of <hi>Dorſet</hi> ſent for your Petitioner from the Fleet, who comming to him, uſed all perſwaſions for him to ſubmit and pay Cuſtomes, offering preferment, &amp;c. and to bring your Petitioner to the King; but he no way yeelding, after many paſſages, his Lordſhip moſt fearfully curſed, and ſwore God damne him, your Petitioner was the archeſt Rebell of the Kingdom, and deſerved better to bee hanged then the Gun powder Traitors; and ſwore God refuſe him, if they were living, he would ſooner intercede his Majeſty for a pardon for them, then your Petitioner, who told him he needed no ſuch pardon; then his Lordſhip ſaid your Petitioner might imbrue his hands in blood one day; who anſwered, he hoped God would keep him from that crying ſin: then his Lordſhip called him Prince <hi>Chambers,</hi> and ſaid, That ano<g ref="char:EOLhyphen"/>ther Redeemer was come into the world to redeem the Subjects Liberties; and that he had wicked Councell, and would know them; for they were Parliament Raſcalls, and other Long-gown'd Raſcalls, and Puritanicall white-robed Raſcalls, ſuch as preach two houres in a Pulpit, of Conſcience, which have no more then a Dog; with much other blaſphemous ſpeeches. After which he asked your Petitioner againe, if hee would ſubmit to the King, who anſwered, he did in his Laws, which was the greateſt obedience; his Lordſhip told your Petitioner hee was his friend in the ſentence; but if he were to doe it again, he ſwore God damne him, he would ſentence your Petitioner 100000 <hi>l.</hi> who told his Lorpſhip, the words he ſpake he would maintain; whereupon his Lordſhip willed your Petitioner to give him his hand, which hee did, and kiſs't it, hoping of better proceedings; but he ſwore and curſt, and ſaid God damn him, if he or the Lords had conceived or thought your Petitioner had meant the words ſpoken at the Councell Board, by the King, the Lords, or Government; hee, and they would have cut your Petitioner in pieces alive: So he there alſo directly and freely cleared your Petitioner of the Crime laid againſt him, both for himſelf, and the other Lords, &amp;c. whereupon your Petitioner humbly deſired of his Lordſhip to know for what he was ſo ſentenced. Upon which his Lordſhip fearefully curſed, and willed him to goe to the Exchange and tell all the Merchants there, That if all the Gunpowder Traytors were living, your Petitioner deſerved better to be hanged then all they; with other curſes, &amp;c. and your Petitioner deſiring his Lordſhip to have a better opinion of him, ſaid he, of the Devil firſt; and that your Petitioner and his Race would be damned for this act: ſo he departed to the Fleet again.</p>
+            <p n="12">XII. That your Petitioner being ſentenced 6 <hi>May,</hi> 1629. to ruine and diſgrace, was by the goodneſſe of God in the time of his Sheriffalty of <hi>London</hi> the 6 <hi>May,</hi> 1645. againe happily Married to a ſecond Wife 16 yeares after.</p>
+            <trailer>
+               <hi>O how righteous art thou O God, and juſt in all thy judgements, in humbling and exalting, and in mercy, bringing ſtrange things to paſſe by weak means, according to thy bleſſed Word, for example of thy children to feare thee, and guide their ways according to thy holy Word:</hi> as followeth,
+<list>
+                  <item>
+                     <bibl>
+                        <hi>Ezek.</hi> 45.9.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Deut.</hi> 16.20.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Eccleſiaſticus</hi> 11.7.8.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Pſal.</hi> 56.5.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>od</hi> 23.6, 7.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Levit.</hi> 19.15.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Eſa.</hi> 56.1, 2.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Prov.</hi> 17.15.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Mich.</hi> 2.1, 2.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Iſa.</hi> 10.1.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Iſa.</hi> 29.21.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Ezek.</hi> 46.18.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Eccleſ.</hi> 5.7, 8.</bibl>
+                  </item>
+                  <item>
+                     <bibl>
+                        <hi>Revel.</hi> 2.10.</bibl>
+                  </item>
+               </list>
+            </trailer>
+            <closer>
+               <signed>Richard Chambers.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
